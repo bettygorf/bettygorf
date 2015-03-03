@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "W01: Brainstorming ideas for the project"
+date:   2015-02-05 17:26:25
+categories: blog
+---
+
+
+# What
+After my tutor Fiore rejected my ironic and provocative ***Pastafarian interactive helmet*** (what a pity!) I tried to think of a little more serious project.
+I have always been interested in recycling and reusing waste materials. So I tried to imagine some other features in the *Fablab of the future*. This *Fablab* could be able not just to make (almost) anything but it could be also capable to provide its own raw materials by recycling as much as possible. I thought of an imaginary all purposes DiY machine able to recognize and ***recycle (almost) anything***.
+ 
+Obviously it's a very ambitious project so I tried to start just the **first brick**. What about recycling glass? Plastic materials? mmm. Organic waste is already commonly recycled as compost. So I thought about a project involving **paper**.
+
+There is already plenty of children tutorials to recycle paper at home, i.e. [this one](http://faidatemania.pianetadonna.it/come-fare-la-carta-riciclata-attivita-per-bambini-96679.html#steps_2.). As much as there is plenty of [industrial machines](http://www.alibaba.com/showroom/recycle-paper-machine.html).
+
+
+#Why
+Because it's **fun** to make things of your own.
+
+Because building an easy paper making kit lets **anybody** experiment with paper. 
+
+#Experimenting with conductive materials and paper
+
+In my project I would like to embed different materials and components during the process of paper making. I will start by adding metal or other conductive fibers and textiles in the mixture, ***experimenting with paper and electricity***.
+

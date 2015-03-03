@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "W01: Embedding conductive materials #01"
+date:   2015-02-06 17:56:25
+categories: blog
+---
+
+During my second attempt of paper making I also tried to embed conductive materials I had home.
+I begun with tin copper and stainless steel textiles. Happily they stay conductive as I supposed.
+
+![01](/img/week-01-02/09.jpg)
+
+
+I did this experiment at home: I hadn't a multimeter there. So I used an LED, a pair of crocodile clips and a coin battery to build a very simple circuit to test the conductivity of the piece.
+This is the result:
+
+<iframe width="740" height="400" src="https://www.youtube.com/embed/kunVSR3lDfI" frameborder="0"></iframe>
+
+

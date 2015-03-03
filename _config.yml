@@ -1,0 +1,12 @@
+# Site settings
+title: Salt'n'Paper
+email: bettygorf@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Bettygorf's official unofficial project for Fab Academy 2015
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: bettygorf
+github_username:  bettygorf
+
+# Build settings
+markdown: kramdown

@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "W02: Quick logo for the project"
+date:   2015-02-10 17:56:25
+categories: blog
+---
+
+I need a quick logo to be used in the first part of the project: I will come back on it after a while, when the style of the object will be clearer.
+
+Here is just a couple quick logos, by using [Google fonts](https://www.google.com/fonts):
+
+![01](/img/week-01-02/07.png)
+
+![02](/img/week-01-02/08.png)
+
+![03](/img/week-01-02/snp-120x120.jpg)
+
+I also attach the very first brainstorming for the name of the project. Just in case I want to change it later, here are some alternative names...
+
+![03](/img/week-01-02/nomi.jpg)
