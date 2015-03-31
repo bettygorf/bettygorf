@@ -4,6 +4,8 @@ title: About me
 permalink: /about/
 ---
 
+![01](/img/elisabetta-mori.jpg)
+
 I always had interest in DIY, in learning how to make things by myself and how they work. 
 In 1989 I was using a Commodore 64 at school to draw stuff and that was my favourite class. In 2002 I bought a sewing machine, I learnt to use it by myself for my first project of contemporary art. I went on working in the field, in teams as well, exhibiting in Italy and abroad both individually and in art collectives such as [Liquid Cat](http://www.liquidcat.org) and [Postcards from Beirut](http://www.postcardsfrombeirut.org).
 I studied architecture in Florence, where I got the chance work for an exhibition including part of the Interaction-design Ivrea team in 2003. This experience introduced me to the wonderful world of interaction design while I was part of the editorial staff of [ARCH’IT](http://architettura.it) - digital magazine on architecture and digital culture. Since 2009 I was focusing my research on computer science history and design, with [papers](http://hapoc2013.sciencesconf.org/26754) and lectures about the very first [mainframe computer by Olivetti](http://www.aisdesign.org/aisd/ettore-sottsass-jr-e-il-design-dei-primi-computer-olivetti). I have a long time experience in events organization and communication, both for press and digital media.
