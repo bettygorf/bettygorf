@@ -38,6 +38,7 @@ I sen the vinyl roll in the machine, I set up the ***origin*** and then I sent t
 ```
 lpr -Pvinyl directory/nameofthefile.camm
 ```
+![11](/img/week-03-04/13.jpg)
 
 I peeled away the vinyl around the sticker.
 
@@ -46,7 +47,7 @@ I peeled away the vinyl around the sticker.
 I added the frame to the drawing for 2 reasons:
 
 1. to simplify this operation
-2. because the negative of the sticker can result in onother sticker ;)
+2. because the negative of the sticker can result in another sticker ;)
 
 ![08](/img/week-03-04/20.jpg)
 
