@@ -4,7 +4,7 @@ title: Assignments
 permalink: /assignments/
 ---
 
--  ## Principles and Practices
+-  ** Principles and Practices **
 plan and sketch a potential semester project
 
 ***Salt-n-paper: Recycling and tinkering kit***
