@@ -20,9 +20,12 @@ Why should you produce your own paper?
 The kit will include a ***recycling-paper-cookbook*** with instructions and tips.
 
 Follow the assignment on the blog:  
-[W01: Brainstorming ideas for the project](http://bettygorf.github.io/blog/2015/02/05/01.html)  
+[W01: Brainstorming ideas for the project](http://bettygorf.github.io/blog/2015/02/05/01.html)
+ 
 [W01: First attempts of paper making](http://bettygorf.github.io/blog/2015/02/05/02.html)  
+
 [W01: Embedding conductive materials #01](http://bettygorf.github.io/blog/2015/02/06/02.html)  
+
 [W02: Quick logo for the project](http://bettygorf.github.io/blog/2015/02/10/01.html)  
 
 Ps.
