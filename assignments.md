@@ -36,6 +36,7 @@ build a personal site in the class archive describing you and your final project
 here it is: [bettygorf.github.io](http://bettygorf.github.io)  
 
 Follow the assignment on the blog: 
+[W01: Build your personal site](http://bettygorf.github.io/blog/2015/02/05/03.html)
 
 -  **Computer-Aided Design**
 model a possible final project, and post it on your class page
@@ -74,7 +75,8 @@ Follow the assignment on the blog:
 -  **Computer-Controlled Machining**  
 make something big
 
-Follow the assignment on the blog: 
+Follow the assignment on the blog:  
+[W08: Make something big, but start from something small](http://bettygorf.github.io/blog/2015/03/30/01.html)
 
 -  **Molding and Casting**  
 design a 3D mold, machine it, and cast parts from it

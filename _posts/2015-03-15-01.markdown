@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "W04: Electronic Production: milling the Fab-ISP"
+date:   2015-03-15 17:26:25
+categories: blog
+---
+
+
+*[Draft page to be updated]*
+
+The goal of this assignment is to make our own version of the FAB ISP In-circuit programmer.
+
+There are 3 versions of the FabISP. [David's](http://fab.cba.mit.edu/content/projects/fabisp/) [Andy's](http://fab.cba.mit.edu/content/projects/fabispkey/index.html) and [Valentin's](http://fab.cba.mit.edu/classes/863.11/people/valentin.heun/2.htm).
+
+We all chose to follow Andy's project.
+ 
+I have to learn how to mill the board. I have never used that machine.
+First thing to know is there are 2 different milling cutters: 1/64 and 1/32. We are going to use the smaller one (1/64) to engrave the circuit. Later on, we are going to use the 1/32 end mill for cutting out the board. 
+
+![02](/img/week-04/01.jpg)
+
+
+
+
