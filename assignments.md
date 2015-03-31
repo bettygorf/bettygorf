@@ -4,10 +4,10 @@ title: Assignments
 permalink: /assignments/
 ---
 
--  **Principles and Practices**
+-  ## Principles and Practices
 plan and sketch a potential semester project
 
-## Salt-n-paper: Recycling and tinkering kit
+***Salt-n-paper: Recycling and tinkering kit***
 
 **A kit to recycle waste paper and to experiment with embedded electrical circuits in DIY paper.**
 
