@@ -20,12 +20,9 @@ Why should you produce your own paper?
 The kit will include a ***recycling-paper-cookbook*** with instructions and tips.
 
 Follow the assignment on the blog:  
-[W01: Brainstorming ideas for the project](http://bettygorf.github.io/blog/2015/02/05/01.html)
- 
+[W01: Brainstorming ideas for the project](http://bettygorf.github.io/blog/2015/02/05/01.html)   
 [W01: First attempts of paper making](http://bettygorf.github.io/blog/2015/02/05/02.html)  
-
 [W01: Embedding conductive materials #01](http://bettygorf.github.io/blog/2015/02/06/02.html)  
-
 [W02: Quick logo for the project](http://bettygorf.github.io/blog/2015/02/10/01.html)  
 
 Ps.
@@ -33,36 +30,36 @@ Thanks to [Fiore](http://fabacademy.org/archives/2014/students/basile.fiore/) fo
 All the rest is just my own sweat and fun.
 
 
--  **Project Management**
+-  **Project Management**  
 build a personal site in the class archive describing you and your final project
 
-
+here it is: [bettygorf.github.io](http://bettygorf.github.io)
 
 -  **Computer-Aided Design**
 model a possible final project, and post it on your class page
 
--  **Computer-Controlled Cutting**
+-  **Computer-Controlled Cutting**  
 design, make, and document a press-fit construction kit
 
--  **Electronics Production**
+-  **Electronics Production**  
 make the FabISP in-circuit programmer
 
--  **3D Scanning and Printing**
-design and 3D print an object (small, few cm) that could not be made subtractively
+-  **3D Scanning and Printing**  
+design and 3D print an object (small, few cm) that could not be made subtractively  
 3D scan an object (and optionally print it)
 
--  **Electronics Design**
+-  **Electronics Design**  
 redraw the echo hello-world board,
 add (at least) a button and LED (with current-limiting resistor)
 check the design rules, and make it
 
--  **Embedded Programming**
-read a microcontroller data sheet
-program your board to do something, with as many different programming languages
-and programming environments as possible
+-  **Embedded Programming**  
+read a microcontroller data sheet  
+program your board to do something, with as many different programming languages  
+and programming environments as possible  
 
--  **Computer-Controlled Machining**
+-  **Computer-Controlled Machining**  
 make something big
 
--  **Molding and Casting**
+-  **Molding and Casting**  
 design a 3D mold, machine it, and cast parts from it
