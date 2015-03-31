@@ -33,7 +33,7 @@ All the rest is just my own sweat and fun.
 -  **Project Management**  
 build a personal site in the class archive describing you and your final project
 
-here it is: [bettygorf.github.io](http://bettygorf.github.io)  
+Here it is: [bettygorf.github.io](http://bettygorf.github.io)  
 
 Follow the assignment on the blog: 
 [W01: Build your personal site](http://bettygorf.github.io/blog/2015/02/05/03.html)
@@ -51,17 +51,20 @@ Follow the assignment on the blog:
 make the FabISP in-circuit programmer
 
 Follow the assignment on the blog: 
+[W04: Electronic Production: milling the Fab-ISP](http://bettygorf.github.io/blog/2015/03/15/01.html)  
+[W04: Soldering components on the Fab.ISP]   
+[Troubleshooting]   
 
 -  **3D Scanning and Printing**  
-design and 3D print an object (small, few cm) that could not be made subtractively  
+design and 3D print an object (small, few cm) that could not be made subtractively   
 3D scan an object (and optionally print it)
 
 Follow the assignment on the blog: 
 
 -  **Electronics Design**  
-redraw the echo hello-world board,
-add (at least) a button and LED (with current-limiting resistor)
-check the design rules, and make it
+redraw the echo hello-world board,  
+add (at least) a button and LED (with current-limiting resistor)  
+check the design rules, and make it  
 
 Follow the assignment on the blog: 
 

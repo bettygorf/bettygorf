@@ -10,12 +10,11 @@ categories: blog
 
 The goal of this assignment is to make our own version of the FAB ISP In-circuit programmer.
 
-There are 3 versions of the FabISP. [David's](http://fab.cba.mit.edu/content/projects/fabisp/) [Andy's](http://fab.cba.mit.edu/content/projects/fabispkey/index.html) and [Valentin's](http://fab.cba.mit.edu/classes/863.11/people/valentin.heun/2.htm).
-
-We all chose to follow Andy's project.
+There are 3 versions of the FabISP. [David](http://fab.cba.mit.edu/content/projects/fabisp/)'s, [Andy](http://fab.cba.mit.edu/content/projects/fabispkey/index.html)'s and [Valentin](http://fab.cba.mit.edu/classes/863.11/people/valentin.heun/2.htm)'s.
+Andy modified David's design to integrate the USB connector in the circuit board.
+We were all suggested to choose Andy's version. And so we did it!
  
-I have to learn how to mill the board. I have never used that machine.
-First thing to know is there are 2 different milling cutters: 1/64 and 1/32. We are going to use the smaller one (1/64) to engrave the circuit. Later on, we are going to use the 1/32 end mill for cutting out the board. 
+How do I mill the board? First thing to know is there are 2 different milling cutters: 1/64 and 1/32. We are going to use the smaller one (1/64) to trace the circuit. Later on, we are going to use the 1/32 end mill to cut out the board. 
 
 ![02](/img/week-04/01.jpg)
 
