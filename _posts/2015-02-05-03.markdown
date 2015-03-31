@@ -5,7 +5,8 @@ date:   2015-02-5 17:56:25
 categories: blog
 ---
 
-[Draft page to be updated]
+*[Draft page to be updated]*  
+
 Useful things and links to remember:
 
 [Fablab Cascina Tutorials on Git and Mercurial](http://fabacademy.fablabcascina.org/classes/pre-01/)  
@@ -21,6 +22,7 @@ Useful things and links to remember:
 [Jekyll](http://jekyllrb.com/)
 
 [Homebrew](http://brew.sh/)
+
 ![01](/img/week-01-02/10.png)
 
 Markdown syntax on [Daring Fireball](http://daringfireball.net/projects/markdown/syntax)
