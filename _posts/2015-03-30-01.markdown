@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  "W08: Make something big, but start from something small"
-date:   2015-02-05 17:26:25
+date:   2015-03-30 17:26:25
 categories: blog
 ---
 
 
+*[Draft page to be updated]*
 
 To make something big it's better to start from something small. I have never used the CNC mill so I will start by cutting a small box for the *FabBar* my colleague [Francesca Mereu](http://fabacademy.org/archives/2015/eu/students/mereu.francesca/) already built for the assignment.
 I have never used [Solidworks](http://www.solidworks.it/), so this would be the chance.
