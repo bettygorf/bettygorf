@@ -14,9 +14,43 @@ There are 3 versions of the FabISP. [David](http://fab.cba.mit.edu/content/proje
 Andy modified David's design to integrate the USB connector in the circuit board.
 We were all suggested to choose Andy's version. And so we did it!
  
-How do I mill the board? First thing to know is there are 2 different milling cutters: 1/64 and 1/32. We are going to use the smaller one (1/64) to trace the circuit. Later on, we are going to use the 1/32 end mill to cut out the board. 
+How do I mill the board? First thing to know is there are 2 different milling cutters: 1/64'' and 1/32''. We are going to use the smaller one (1/64'') to trace the circuit. Later on, we are going to use the 1/32 end mill to cut out the board. 
 
-![02](/img/week-04/01.jpg)
+![01](/img/week-04/01.jpg)
+
+After putting 1/64'' end mill in the proper place we had to zero the z axis. Then we had to open fabmodules and load the drawing we were going to trace.
+
+```
+fab
+```
+
+![02](/img/week-04/02.jpg)
+
+Set the output process to **Roland MDX-20 mill (.rml)**
+
+![03](/img/week-04/03.jpg)
+
+Then **load** your drawing
+
+![04](/img/week-04/04.jpg)
+
+Choose the end mill: **mill traces (1/64)**
+
+![05](/img/week-04/05.jpg)
+
+**make path**
+
+set the **x and the y min**
+
+**make rml**
+
+![06](/img/week-04/06.jpg)
+
+**send it**
+
+A window will pop-up: the milling won't start until you press the **begin milling** button.
+
+![07](/img/week-04/07.jpg)
 
 
 
