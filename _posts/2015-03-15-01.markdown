@@ -60,7 +60,7 @@ Here we are!
 
 Repeat all these operations but by using the 1/32'' end mill to cut the board out.
 
--- **Troubleshooting based on my (and my collegues experience)** --
+-- **Troubleshooting based on my (and my collegues) experience** --
 
 In case we have **too light traces**: no problem, you only have to zero the z axis properly and trace the cicuit once again. I saw it happening to a colleague.
 
