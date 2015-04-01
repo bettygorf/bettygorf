@@ -13,12 +13,12 @@ There are 3 versions of the FabISP. [David](http://fab.cba.mit.edu/content/proje
 Andy modified David's design to integrate the USB connector in the circuit board.
 We were all suggested to choose Andy's version. And so we did it!
  
-How do I mill the board? We will use 2 different milling ends: **1/64''** and **1/32''**. We are going to use the smaller one (1/64'') to **trace** the circuit. Later on, we are going to use the 1/32 end mill to **cut** out the board. 
+How do I mill the board? We will use 2 different [end mills](http://en.wikipedia.org/wiki/End_mill): **1/64''** and **1/32''**. We are going to use the smaller one (1/64'') to **trace** the circuit. Later on, we are going to use the 1/32 end mill to **cut** out the board. 
 
 ![01](/img/week-04/01.jpg)
 
 After putting 1/64'' end mill in the proper place we had to **zero the z axis**.
-This is quite a delicate operation because we have to do it manually and the risks are: to have too light traces (if the zero is not perfectly down) or to break the end mill if it's too down. 
+This is quite a delicate operation because we have to do it manually. The risks are: to have too light traces (if the zero is not perfectly down) or to break the end mill if it's too down. Read later for **troubleshooting** about this.
 
 Then we had to **open fabmodules** and load the drawing we were going to trace.
 
@@ -58,15 +58,16 @@ Here we are!
 
 ![08](/img/week-04/08.jpg)
 
-Repeat all these operations but by using the 1/32'' end mill to cut the board out.
+
+**Repeat** all these operations using the **1/32''** end mill to cut the board out.
+
+![09](/img/week-04/09.jpg)
 
 -- **Troubleshooting based on my (and my collegues) experience** --
 
 In case we have **too light traces**: no problem, you only have to zero the z axis properly and trace the cicuit once again. I saw it happening to a colleague.
 
 In case you risk to break the end mill you will hear a **really bad sound**: you just have to stop the mill as soon as possible. This happened to me: when I was zeroing the z axis I put the end mill too down. 
-In case the end mill is spoiled you will have to use a new one. Luckily this was not my case.git
-
-
+In case the end mill is spoiled you will have to use a new one. Luckily this was not my case.
 
 
