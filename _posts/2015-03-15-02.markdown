@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "W04: Electronic Production: Stuffing the FAB ISP"
+date:   2015-03-16 17:26:25
+categories: blog
+---
+
+
+*[Draft page to be updated]*
+
+After [milling](http://bettygorf.github.io/blog/2015/03/15/01.html) the board the next step is to solder the components.
+I used [this](http://fabacademy.org/archives/2014/students/basile.fiore/classes/04_electronics_production.html) [BOM](http://en.wikipedia.org/wiki/Bill_of_materials): 
+
+![01](/img/week-04/fabisp_bom.jpg) 
+
+Soldering was a little challenging at the beginning: I had to train my hands to move precisely. I had never soldered SMD components before!
+
+I begun from the ATTINY44 and then from the center all around, in order to work in a more comfortable way. After sweating a little bit I finally managed to solder almost everything. I was quite enthusiastic but I didn't consider what for me would become the worst part: soldering the connector! I hadn't developed a tecnique yet (I am a master, now!) and I folded the pins one by one resulting in a terrible connector, a nightmare to be soldered!
+ 
+In the end a couple of traces in the board were *spoiled*, so I had to mill another board, unsolder the components from the previous board and solder them again. This part was actually a practical exercise for soldering; it reminded me a bit of [Karate Kid's "Wax on, wax off"](https://www.youtube.com/watch?v=fULNUr0rvEc) but it worked.
+
+Here I am!
+
+![02](/img/week-04/10.jpg) 
+
+Photo by [Stefano Panichi](https://twitter.com/StefanoPanichi)
+
+Stefano popped-up an amazing sunny sunday. He helped me and the others to find out short circuits on the board (I had 2) and explained us how to test the circuit by setting your tester to diode mode.
+
+[Trouble shooting in Italian by Stefano](https://plus.google.com/+TroyNachtigallDesign/posts/ZypkDPMeN24), thanks to [Troy](http://fabacademy.org/archives/2015/eu/students/nachtigall.troy_robert/) for the video.
+
+
+
+
+
