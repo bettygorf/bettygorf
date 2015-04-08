@@ -25,9 +25,11 @@ Here I am!
 
 Photo by [Stefano Panichi](https://twitter.com/StefanoPanichi)
 
-Stefano popped-up an amazing sunny sunday. He helped me and the others to find out short circuits on the board (I had 2) and explained us how to test the circuit by setting your tester to diode mode.
+Stefano popped-up an amazing sunny sunday. He helped me and the others to find out short circuits on the board (I had 2) and explained us how to test the circuit by setting your tester to **diode mode**.
 
 [Trouble shooting in Italian by Stefano](https://plus.google.com/+TroyNachtigallDesign/posts/ZypkDPMeN24), thanks to [Troy](http://fabacademy.org/archives/2015/eu/students/nachtigall.troy_robert/) for the video.
+
+
 
 
 
