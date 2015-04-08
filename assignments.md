@@ -7,8 +7,8 @@ permalink: /assignments/
 -  **Principles and Practices**  
 plan and sketch a potential semester project
 
-***Salt-n-paper: Recycling and tinkering kit***  
-**A kit to recycle waste paper and to experiment with embedded electrical circuits in DIY paper.**
+*Salt-n-paper: Recycling and tinkering kit*  
+A kit to recycle waste paper and to experiment with embedded electrical circuits in DIY paper.
 
 The aim of the project is to design a DIY kit with all the tools you need to recycle paper. Each tool has to be cheap, easy to find and/or easy to make in a Fablab, by using a laser cutter or a 3Dprinter. The final result of the project has to be a compact and easy-to-use kit.
 
@@ -29,7 +29,7 @@ Ps.
 Thanks to [Fiore](http://fabacademy.org/archives/2014/students/basile.fiore/) for the name of the project.  
 All the rest is just my own sweat and fun.
   
-  
+ <br />
   
   
 -  **Project Management**  
