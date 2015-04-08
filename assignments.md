@@ -28,8 +28,10 @@ Follow the assignment on the blog:
 Ps.
 Thanks to [Fiore](http://fabacademy.org/archives/2014/students/basile.fiore/) for the name of the project.  
 All the rest is just my own sweat and fun.
-
-
+  
+  
+  
+  
 -  **Project Management**  
 build a personal site in the class archive describing you and your final project
 
@@ -37,51 +39,78 @@ Here it is: [bettygorf.github.io](http://bettygorf.github.io)
 
 Follow the assignment on the blog: 
 [W01: Build your personal site](http://bettygorf.github.io/blog/2015/02/05/03.html)
-
--  **Computer-Aided Design**
+  
+  
+  
+  
+-  **Computer-Aided Design**  
 model a possible final project, and post it on your class page
-
+  
+  
+  
+  
 -  **Computer-Controlled Cutting**  
 design, make, and document a press-fit construction kit
 
 Follow the assignment on the blog: 
 [W03: Experimenting with vinyl cutter](http://bettygorf.github.io/blog/2015/02/12/01.html)
-
+  
+  
+  
+  
 -  **Electronics Production**  
 make the FabISP in-circuit programmer
 
-Follow the assignment on the blog: 
+Follow the assignment on the blog:  
 [W04: Electronic Production: milling the Fab-ISP](http://bettygorf.github.io/blog/2015/03/15/01.html)  
-[W04: Soldering components on the Fab.ISP]   
-[Troubleshooting]   
-
--  **3D Scanning and Printing**  
+[W04: Stuffing and programming the FAB ISP](http://bettygorf.github.io/blog/2015/03/16/02.html)
+  
+  
+  
+  
+-  **3D Scanning and Printing**    
 design and 3D print an object (small, few cm) that could not be made subtractively   
 3D scan an object (and optionally print it)
 
 Follow the assignment on the blog: 
-
+  
+  
+  
+  
 -  **Electronics Design**  
 redraw the echo hello-world board,  
 add (at least) a button and LED (with current-limiting resistor)  
 check the design rules, and make it  
 
 Follow the assignment on the blog: 
-
+  
+  
+  
+  
 -  **Embedded Programming**  
 read a microcontroller data sheet  
 program your board to do something, with as many different programming languages  
 and programming environments as possible  
 
 Follow the assignment on the blog: 
-
+  
+  
+  
+  
 -  **Computer-Controlled Machining**  
 make something big
 
 Follow the assignment on the blog:  
 [W08: Make something big, but start from something small](http://bettygorf.github.io/blog/2015/03/30/01.html)
-
+  
+  
+  
+  
 -  **Molding and Casting**  
 design a 3D mold, machine it, and cast parts from it
 
 Follow the assignment on the blog: 
+  
+  
+  
+  
