@@ -39,7 +39,7 @@ My board looked ok but didn't work. Stefano helped me and the others to find out
 
 Programming the FAB ISP was the last step.
 To upload the firmware on the FabISP I need another ISP programmer to bridge the FabISP with computer trough a 6pins ribbon bus. 
-After programming the FAB ISP you have to unsolder the jumper close to the ATTINY. 
+After programming the FAB ISP it is necessary to unsolder the jumper close to the ATTINY.
 
 
 
