@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "W04: Electronic Production: Stuffing the FAB ISP"
+title:  "W04: Stuffing and programming the FAB ISP"
 date:   2015-03-16 17:26:25
 categories: blog
 ---
@@ -37,7 +37,7 @@ Master electronical engineer [Stefano Panichi](https://twitter.com/StefanoPanich
 
 My board looked ok but didn't work. Stefano helped me and the others to find out short circuits on the board (I had 2) and he explained us how to test the circuit by setting your tester to **diode mode**. [Here is the rouble shooting explanation](https://plus.google.com/+TroyNachtigallDesign/posts/ZypkDPMeN24), thanks to [Troy](http://fabacademy.org/archives/2015/eu/students/nachtigall.troy_robert/) for the video. Sorry, it's in Italian!
 
-Programming the FAB ISP was the last step.
+**Programming the FAB ISP** was the last step.
 To upload the firmware on the FabISP I need another ISP programmer to bridge the FabISP with computer trough a 6pins ribbon bus. 
 After programming the FAB ISP it is necessary to unsolder the jumper close to the ATTINY.
 
