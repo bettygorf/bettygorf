@@ -22,12 +22,12 @@ I begun from the ATTINY44 and then from the center all around, in order to work 
 
 I hadn't developed a tecnique yet (I am a master, now!) and I folded the pins one by one, resulting in a terrible connector, a nightmare to be soldered!
 
-![03](/img/week-04/12.jpg) 
+![03](/img/week-04/13.jpg) 
  
 In the end a couple of traces in the board were *spoiled*, so I had to mill another board, unsolder the components from the previous board and solder them again. This part was actually a practical exercise for soldering; it reminded me a bit of [Karate Kid's "Wax on, wax off"](https://www.youtube.com/watch?v=fULNUr0rvEc) but it worked.
 Here I am!
 
-![02](/img/week-04/10.jpg) 
+![04](/img/week-04/10.jpg) 
 
 Photo by [Stefano Panichi](https://twitter.com/StefanoPanichi)
 
