@@ -1,8 +1,8 @@
 # Site settings
-title: 404 student not found
+title: bettygorf
 email: bettygorf@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Bettygorf's unofficial page for Fab Academy 2015
+  home of bettygorf
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: bettygorf
