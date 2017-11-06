@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "blog entry 1"
+date:   2017-11-09 17:26:25
+categories: blog
+---
+
+
+# What
+text
+*text*
+**text**
+***text***
+ 
+[link](https://github.com/bettygorf/bettygorf.github.io)
